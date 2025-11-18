@@ -1,6 +1,6 @@
 # playground
 
-## GitHub configuration
+## GitHub configuration (finished after repository creation)
 
 To set up your new GitHub repository, follow these steps:
 
